@@ -6,3 +6,4 @@ let currentGuess = [];
 let nextLetter = 0;
 let rightGuessString = WORDS[Math.floor(Math.random() * WORDS.length)]
 console.log(rightGuessString)
+// asdlfjadslfjasdl
